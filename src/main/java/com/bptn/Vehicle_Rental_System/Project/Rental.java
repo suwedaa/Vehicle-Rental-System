@@ -28,6 +28,9 @@ public class Rental {
 		availableCars.add(car4);
 		availableCars.add(car5);
 
+		FileManager file = new FileManager();
+		file.writeCars(availableCars);
+
 		if (customers == null) {
 			customers = new ArrayList<>();
 		}
