@@ -1,0 +1,6 @@
+Black,75.50,true,Toyota,Camry,5,Gasoline
+Silver,100.50,true,Tesla,Model 3,5,Electric
+Black,80.00,true,Nissan,Rogue,5,Gasoline
+White,70.00,true,Tesla,Model X,7,Electric
+Grey,50.00,true,Dodge,Durango,7,Gasoline
+Red,65.00,true,Toyota,Corolla,5,Gasoline
